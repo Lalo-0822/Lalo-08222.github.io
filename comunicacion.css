@@ -1,0 +1,59 @@
+
+body{
+background-color: whitesmoke;
+
+}
+
+
+
+h1{
+    border: 30px;
+    margin-left: 42%;
+    font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+.caract{
+   margin-left:5% ;     
+}
+
+
+.informacion{
+  
+
+    margin-left: 15%;
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+    
+
+
+.imagenes{
+    margin-left: 30%;
+    
+}
+
+
+.comprar{
+    margin-left: 50%;
+    width: 100px;
+    height: 100px;
+
+}
+
+button{
+    width:200px ;
+    height:100px     ;
+    margin-left: 45%;
+    background-color: azure;
+    border-radius: 20px;
+    border: 1px;
+}
+
+button:hover{
+    background-color: bisque;
+}
